@@ -14,3 +14,9 @@
 3) After you pick up our Invincible Casino Champion also pick either 1, 2, 3 or 4 number of sticks.
 4) The Game goes on until all the sticks have been picked.
 5) The last one to pick the stick is the Looser.
+## Game 3:
+### Flip a Coin
+1) You will get a chance to get unlimited money
+2) All you have to do iis guess what will be the outcome when we flip a coin
+3) If you guess right 100$ gets added
+4) BUT! If you guess 1 wrong all your money will be lost and you will go home Empty Handed
