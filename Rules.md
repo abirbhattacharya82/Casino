@@ -20,3 +20,11 @@
 2) All you have to do iis guess what will be the outcome when we flip a coin
 3) If you guess right 100$ gets added
 4) BUT! If you guess 1 wrong all your money will be lost and you will go home Empty Handed
+## Game 4:
+### Three In a Row
+1) You will get a chance to win a maximum of 10000$
+2) You will be provided with a fixed Balance of 5000$
+3) You have to place bet within the range of 0->5000$
+4) Next you have to Pull the Lever and wait
+5) If you are Lucky to get all three letters Same then your bets get doubled added to your account
+6) Else you will loose that money.
