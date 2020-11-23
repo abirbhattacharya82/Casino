@@ -13,10 +13,14 @@ if y==1:
         print('You Seem to be Lucky')
         p=p+p
         w=w+p
+        print('_________')
+        print(x[a1],'|',x[b1],'|',x[c1])
+        print('_________')
     else:
         print('Looks Like you are Having a Bad Day')
-print('_________')
-print(x[a1],'|',x[b1],'|',x[c1])
-print('_________')
+        print('_________')
+        print(x[a1],'|',x[b1],'|',x[c1])
+        print('_________')
+
 print('Your Current Balance=> ',w)
 
