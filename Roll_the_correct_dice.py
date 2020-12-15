@@ -8,7 +8,7 @@ while (True):
         print("Unable to Place Bet")
     else:
         j=int(input("Guess the Number on the Dice: "))
-        x=random.randint(1,6)
+        x=random.randint(1,7)
         if x == j:
             print("You Won")
             bet=bet+bet
