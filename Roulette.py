@@ -1,4 +1,4 @@
-import random
+import random, time
 name=input("Hello , please enter your name ")
 gender=input("Please select H for He, S for She ")
 x="Sir"
@@ -69,8 +69,11 @@ while z=="Yes":
         amount=sum(Bet)+sum(Bet_on_no)
         cash=cash-(sum(Bet)+sum(Bet_on_no))
         print("Amount you Bet on ",amount," Cash in Hand Now ",cash)
+        for qq in [1,2,3]:
+            time.sleep(3)
+            print(qq,end=' ')
         roll=random.choice(roullete_wheel)
-        print("The Ball is On ",roll)
+        print("\nThe Ball is On ",roll)
         money=0
         if roll in bet5:
             money=money+(35*Bet_on_no[bet5.index(roll)])
@@ -108,4 +111,3 @@ while z=="Yes":
             print("I am Sorry Mr.",name," but you can't play this round due to insufficient bets. Make sure the Inner bets are a total of atleast 10$ and so is the Outer bets.")
         else:
             print("I am Sorry Ms/Mrs.",name," but you can't play this round due to insufficient bets. Make sure the Inner bets are a total of atleast 10$ and so is the Outer bets.")
-
