@@ -30,7 +30,7 @@
 6) Else you will loose that money.
 ## Game 5:
 ### Casino Roullete Lite
-![](roullete_table.png)
+![](Roullete_table.png)
 1) There are 4 types of Bet in a single hand you can place
 2) The first type of bet is the one placed on Even or Odd. If you place your bet on Even and the Number on the Roullete is an Even Number then you get your amount equivalent to double your bet
 3) The second type of Bet is on the Dozens. If you look at the Roullete Table above there are 3 dozens available. You can bet on either one of these and if the ball on the Roullete is a number among that dozen then you get your amount equivalent to double your bet.
