@@ -12,5 +12,6 @@
 3) [Flip a Coin](flip_a_coin.py)
 4) [Three In a Row](Lever_puller.py)
 5) [Casino Roullete Lite](Roulette.py)
+6) [Baccarat](Baccarat.py)
 ## Before engaging yourself in playing these Games make sure you read the [Rules](Rules.md) properly
-#### We made This Repository Using Python. If you find it funny or helpful or stressful do gives us a ☆
+#### We made This Repository using Python. If you find it a little bit fun or mind refreshing feel free to drop a :star:
