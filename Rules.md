@@ -38,3 +38,14 @@
 5) These were the outer bets. Your total amount of the Outer bet should be atleast 10$.
 6) There is only one type of Inner bet and that is betting  on the Number. You can bet on as many numbers you want but the total of the Inner bets should be 10$.
 7) If the Ball on the hits the Number you bet on then you get 35 times the amount you bet on the number.
+## Game 6:
+### Baccarat
+1) The Regular deck of 52 cards is used in this game.
+2) The cards numbered from 2 to 9 equals to the point of their face values.
+3) Ace equals 1 point
+4) King, Queen and Joker equals 0.
+5) The goal is to predict who will be getting more points, Banker, Player or it will be a tie.
+6) Therefore there are 3 spots on which you can bet. On the PLayer, on the Banker or a Tie.
+7) The dealer pulls 2 cards for the player and two for the banker. The sum of the cards counts as the point of the player or banker.
+8) If the count is over 10 then the digit on the units place is considered in that case. Like if the player gets 2+9 which is 11 the player will get only 1 point.
+9) If you guess correct the amount gets doubled.
