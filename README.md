@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/stars/abirbhattacharya82/Casino?color=green&label=Stars&logo=github&logoColor=white&style=plastic)
 -------------------
 ![](casino.jpg)
-* Before Making any Contribution make sure you read the [Guidelines](Guidelines.md) properly.
+* Before Making any Contribution make sure you read the [Guidelines](Guidlines.md) properly.
 * Struck and Unable to make any Contributions even if you want check out [How to Contribute](how_to_contribute.md)
 * New to GiHub?
   * [Intro to GitHub](https://www.youtube.com/watch?v=V4K6Dy9DWm8)
