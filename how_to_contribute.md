@@ -4,7 +4,7 @@
 Fork the Repository. The Fork option is located on the top right side of you screen beside Star/ Unstar option. Forking this repository will make an exaclty identical repo of this one only under your username. This ensures that if you are making any changes which may not be acceptable (most of the time its not) then it wont affect the main repository that is mine over here.
 ![](Images/fork.png)
 * ### Step 2: 
-Go to Add File and select Upload File. This will allow you to add files in your machine to the cloned Repository.
+Go to Add File and select Upload File. This will allow you to add files in your machine to the forked Repository.
 ![](Images/add_file.png)
 * ### Step 3: 
 Now you need to make the commit to push this file in the Repository finally. This is done by providing a brief description of what changes you made and then press commit.
