@@ -17,7 +17,7 @@
 ## Game 3:
 ### Flip a Coin
 1) You will get a chance to get unlimited money
-2) All you have to do iis guess what will be the outcome when we flip a coin
+2) All you have to do is guess what will be the outcome when we flip a coin
 3) If you guess right 100$ gets added
 4) BUT! If you guess 1 wrong all your money will be lost and you will go home Empty Handed
 ## Game 4:
