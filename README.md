@@ -13,7 +13,7 @@
   * [Contributing to a Project](https://youtu.be/4vq07q7g2xE)
 -------------------------------- 
 1) [Roll the Correct Dice](Roll_the_correct_dice.py)
-2) [21 Sticks](Twenty_One_Stick)
+2) [21 Sticks](Twenty_One_Sticks)
 3) [Flip a Coin](Flip_A_Coin)
 4) [Three In a Row](Lever_puller.py)
 5) [Casino Roullete Lite](Roulette.py)
