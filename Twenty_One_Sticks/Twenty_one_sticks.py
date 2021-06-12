@@ -4,6 +4,7 @@ while x>1:
     x_i=int(input("Pick up 1-4 sticks "))
     if x_i>4 or x_i<1:
         print("Illegal You are Disquallified")
+		break
     else:
         x=x-5
         y=(5-x_i)
