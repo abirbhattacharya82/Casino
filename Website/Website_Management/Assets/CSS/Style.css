@@ -1,0 +1,41 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+/*Header*/
+.Header
+{
+    background-image: url("../Images/Background.png");
+    background-size: cover;
+}
+.Header .Heading
+{
+    font-size: 900%;
+    padding-top: 9%;
+    padding-left: 10%;
+}
+.Header .Subheading
+{
+    padding-left: 10.5%;
+    padding-bottom: 2%;
+}
+.Header .Subheading img
+{
+    width: 2%;
+}
+.Header .Subheading a
+{
+    font-size: 250%;
+    text-decoration: none;
+    color: black;
+}
+.Header .Badges
+{
+    padding-left: 10%;
+    padding-bottom: 15.5%;
+}
+.Header .Badges img
+{
+    width: 10%;
+}
