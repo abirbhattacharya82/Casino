@@ -2,6 +2,8 @@
 {
     margin: 0%;
     padding: 0%;
+    scroll-behavior: smooth;
+    font-family: 'Times New Roman', Times, serif;
 }
 /*Header*/
 .Header
@@ -19,6 +21,7 @@
 {
     padding-left: 10.5%;
     padding-bottom: 2%;
+    display: flex;
 }
 .Header .Subheading img
 {
@@ -39,3 +42,27 @@
 {
     width: 10%;
 }
+/*End of Header*/
+/*Intro*/
+.Intro
+{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.Intro .Heading
+{
+    font-size: 300%;
+    padding-left: 10%;
+}
+.Intro .details
+{
+    font-size: 150%;
+    line-height: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    border: 1px solid rgb(1, 75, 1);
+    padding: 2%;
+    box-shadow: green;
+}
+/*End of Intro*/
