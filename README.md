@@ -17,6 +17,6 @@
 2) [21 Sticks](Twenty_One_Sticks)
 3) [Flip a Coin](Flip_A_Coin)
 4) [Three In a Row](Lever_puller)
-5) [Casino Roullete Lite](Roulette)
+5) [Casino Roullete Lite](Roullete)
 6) [Baccarat](Baccarat)
 ## Before engaging yourself in playing these Games make sure you read the [Rules](About/Rules.md) properly
