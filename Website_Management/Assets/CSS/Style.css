@@ -23,6 +23,7 @@
     padding-bottom: 20%;
     margin-top: 1%;
     display: flex;
+    flex-wrap: wrap;
 }
 .Header .Subheading img
 {
@@ -44,7 +45,8 @@
 .Intro .Heading
 {
     font-size: 300%;
-    padding-left: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .Intro .details
 {
@@ -57,6 +59,7 @@
     padding: 2%;
 }
 /*End of Intro*/
+/*Games*/
 .Games
 {
     padding-bottom: 5%;
@@ -64,37 +67,148 @@
 .Games .Heading
 {
     font-size: 300%;
-    padding-left: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .Games .Table
 {
-    margin-left: 10%;
-    margin-right: 10%;
     margin-top: 2%;
-    font-size: 150%;
-    line-height: 300%;
-    border: 1px solid rgb(1, 75, 1);
-    padding: 2%;
+    margin-left: 10%;
     display: flex;
-}
-.Games .Table .left a
-{
-    text-decoration: none;
-    color: black;
+    flex-wrap: wrap;
+    border: 1px solid rgb(1, 75, 1);
+    margin-right: 10%;
+    padding: 0%;
 }
 .Games .Table .left
 {
-    text-align: justify;
+    width: 54%;
+}
+.Games .Table .left img
+{
+    width: 100%;
+    height: 100%;
 }
 .Games .Table .right
 {
-    width: 50%;
+    font-size: 150%;
+    line-height: 270%;
     margin-left: 10%;
-    text-align: right;
-    height: fit-content;
 }
-.Games .Table .right img
+.Games .Table .right a
 {
-    width: 120%;
-    height: 50%;
+    text-decoration: none;
+    color:black;
 }
+/*End of Games*/
+/*List of Contribbutors*/
+.Contributors
+{
+    padding-bottom: 5%;
+}
+.Contributors .Heading
+{
+    font-size: 300%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Contributors .Contributor
+{
+    font-size: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Contributors .Contributor .cards
+{
+    background-image: url(https://img.freepik.com/free-vector/poker-table-background-green-color_47243-1068.jpg?size=664&ext=jpg);
+    padding: 2%;
+    width: 20%;
+    text-align: center;
+    margin-left: 1%;
+    margin-top: 2%;
+    color: white;
+}
+.Contributors .Contributor .cards img
+{
+    width: 90%;
+    border-radius: 100%;
+}
+.Contributors .Contributor .cards a
+{
+    text-decoration: none;
+    color: white;
+}
+/*End of List of Contributors*/
+/*Footer*/
+.Footer
+{
+    background-image: url(https://img.freepik.com/free-vector/poker-table-background-green-color_47243-1068.jpg?size=664&ext=jpg);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    font-size: 120%;
+}
+.Footer .col1
+{
+    text-align: center;
+}
+.Footer .col1 .button
+{
+    border:1px solid white;
+    margin-top: 5%;
+    background-color: white;
+    padding: 1%;
+}
+.Footer .col1 .button:hover
+{
+    border:1px solid green;
+    margin-top: 5%;
+    background-color: green;
+    padding: 1%;
+}
+.Footer .col1 .button a
+{
+    text-decoration: none;
+    color: green;
+}
+.Footer .col1 .button a:hover
+{
+    text-decoration: none;
+    color: white;
+}
+.Footer .col2
+{
+    text-align: center;
+    margin-left: 30%;
+}
+.Footer .col2 .button
+{
+    border:1px solid white;
+    margin-top: 5%;
+    background-color: white;
+    padding: 1%;
+}
+.Footer .col2 .button:hover
+{
+    border:1px solid green;
+    margin-top: 5%;
+    background-color: green;
+    padding: 1%;
+}
+.Footer .col2 .button a
+{
+    color: green;
+    text-decoration: none;
+}
+.Footer .col2 .button a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+/*End of Footer*/
