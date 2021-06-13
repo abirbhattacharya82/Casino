@@ -20,7 +20,8 @@
 .Header .Subheading
 {
     padding-left: 10.5%;
-    padding-bottom: 2%;
+    padding-bottom: 20%;
+    margin-top: 1%;
     display: flex;
 }
 .Header .Subheading img
@@ -29,18 +30,9 @@
 }
 .Header .Subheading a
 {
-    font-size: 250%;
+    font-size: 300%;
     text-decoration: none;
     color: black;
-}
-.Header .Badges
-{
-    padding-left: 10%;
-    padding-bottom: 15.5%;
-}
-.Header .Badges img
-{
-    width: 10%;
 }
 /*End of Header*/
 /*Intro*/
@@ -63,6 +55,46 @@
     margin-top: 2%;
     border: 1px solid rgb(1, 75, 1);
     padding: 2%;
-    box-shadow: green;
 }
 /*End of Intro*/
+.Games
+{
+    padding-bottom: 5%;
+}
+.Games .Heading
+{
+    font-size: 300%;
+    padding-left: 10%;
+}
+.Games .Table
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    font-size: 150%;
+    line-height: 300%;
+    border: 1px solid rgb(1, 75, 1);
+    padding: 2%;
+    display: flex;
+}
+.Games .Table .left a
+{
+    text-decoration: none;
+    color: black;
+}
+.Games .Table .left
+{
+    text-align: justify;
+}
+.Games .Table .right
+{
+    width: 50%;
+    margin-left: 10%;
+    text-align: right;
+    height: fit-content;
+}
+.Games .Table .right img
+{
+    width: 120%;
+    height: 50%;
+}
