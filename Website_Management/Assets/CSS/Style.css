@@ -212,3 +212,64 @@
     text-decoration: none;
 }
 /*End of Footer*/
+
+@media(max-width:768px)
+{
+    .Header .Heading
+    {
+        font-size: 700%;
+    }
+    .Header .Subheading
+    {
+        font-size: 50%;
+    }
+    .Header .Subheading img
+    {
+        width: 2%;
+    }
+    .Header .Subheading a
+    {
+        margin-left: 2%;
+    }
+    .Games .Table .left 
+    {
+        width: 100%;
+    }
+    .Contributors .Contributor .cards
+    {
+        font-size: 50%;
+    }
+    .Footer
+    {
+        display: flex;
+        font-size: 200%;
+        padding-top: 10%;
+        padding-bottom: 10%;
+    }
+    .Footer .col1 
+    {
+        width: 40%;
+        padding-bottom: 40%;
+        margin: 0%;
+        font-size: 70%;
+        margin-left: 5%;
+    }
+    .Footer .col2
+    {
+        width: 40%;
+        margin: 0%;
+        font-size: 70%;
+        padding-bottom: 40%;
+        margin-left: 5%;
+    }
+    .Footer .col1 .button
+    {
+        width: 70%;
+        margin-left: 13%;
+    }
+    .Footer .col2 .button
+    {
+        width: 70%;
+        margin-left: 13%;
+    }
+}
