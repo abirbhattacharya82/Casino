@@ -21,7 +21,7 @@
 {
     padding-left: 10.5%;
     padding-bottom: 20%;
-    margin-top: 1%;
+    padding-top: 1%;
     display: flex;
     flex-wrap: wrap;
 }
@@ -212,64 +212,71 @@
     text-decoration: none;
 }
 /*End of Footer*/
-
 @media(max-width:768px)
 {
+    body
+    {
+        padding: 0%;
+        margin:0%;
+    }
+    .Header
+    {
+        background-image: url("../Images/Background1.png");
+        width: 100%;
+    }
     .Header .Heading
     {
-        font-size: 700%;
+        font-size: 450%;
     }
     .Header .Subheading
     {
-        font-size: 50%;
-    }
-    .Header .Subheading img
-    {
-        width: 2%;
+        font-size: 40%;
     }
     .Header .Subheading a
     {
         margin-left: 2%;
     }
-    .Games .Table .left 
+    .Intro
+    {
+        width: 100%;
+    }
+    .Games
+    {
+        width: 100%;
+    }
+    .Games .Table .left
+    {
+        width: 100%;
+    }
+    .Contributors
     {
         width: 100%;
     }
     .Contributors .Contributor .cards
     {
+        width: 40%;
+        margin-left: 5%;
         font-size: 50%;
     }
     .Footer
     {
+        width: 100%;
+        padding: 0%;
         display: flex;
-        font-size: 200%;
-        padding-top: 10%;
+        flex-direction: column;
         padding-bottom: 10%;
+        padding-top: 5%;
     }
-    .Footer .col1 
+    .Footer .col1
     {
-        width: 40%;
-        padding-bottom: 40%;
-        margin: 0%;
-        font-size: 70%;
-        margin-left: 5%;
+        padding-left: 10%;
+        padding-right: 10%;
     }
     .Footer .col2
     {
-        width: 40%;
-        margin: 0%;
-        font-size: 70%;
-        padding-bottom: 40%;
-        margin-left: 5%;
-    }
-    .Footer .col1 .button
-    {
-        width: 70%;
-        margin-left: 13%;
-    }
-    .Footer .col2 .button
-    {
-        width: 70%;
-        margin-left: 13%;
+        margin-left: 0%;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 5%;
     }
 }
