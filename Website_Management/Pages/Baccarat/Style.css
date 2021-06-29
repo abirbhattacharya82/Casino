@@ -1,0 +1,108 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Heading
+{
+    font-size: 300%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 2%;
+    padding-top: 1%;
+}
+.Rules
+{
+    display: flex;
+    font-size: 150%;
+    line-height: 150%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid green;
+}
+.rule
+{
+    width: 100%;
+    padding: 2%;
+}
+.images
+{
+    width: 40%;
+}
+.Bullet
+{
+    color: green;
+}
+.Rules .images img
+{
+    width: 100%;
+    height: 100%;
+}
+.ButtonArea
+{
+    text-align: center;
+    padding-top: 2%;
+    font-size: 150%;
+}
+.Home
+{
+    background-color: green;
+    background-color: green;
+    width: 9%;
+    padding:1%;
+    margin-left: 45%;
+}
+.Home a
+{
+    text-decoration: none;
+    color: white;
+}
+.Home:hover
+{
+    background-color: rgb(2, 39, 2);
+}
+.desktop
+{
+    display: block;
+}
+.mobile
+{
+    display: none;
+}
+@media(max-width:768px)
+{
+    .Rules
+    {
+        display: flex;
+        flex-direction: column-reverse;
+        font-size: 120%;
+    }
+    .rule
+    {
+        width: 95.5%;
+    }
+    .images
+    {
+        width: 100%;
+    }
+    .desktop
+    {
+        display: none;
+    }
+    .mobile
+    {
+        display: block;
+    }
+    .Home
+    {
+        width: 20%;
+        margin-top: 2%;
+        margin-left: 40%;
+        font-size: 80%;
+    }
+    .ButtonArea
+    {
+        padding-bottom: 2%;
+    }
+}
