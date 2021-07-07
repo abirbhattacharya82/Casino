@@ -19,4 +19,5 @@
 4) [Three In a Row](Lever_puller)
 5) [Casino Roullete Lite](Roullete)
 6) [Baccarat](Baccarat)
+7) [Jumping Cards](JumpingCards)
 ## Before engaging yourself in playing these Games make sure you read the [Rules](About/Rules.md) properly
