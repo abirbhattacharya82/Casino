@@ -49,3 +49,13 @@
 7) The dealer pulls 2 cards for the player and two for the banker. The sum of the cards counts as the point of the player or banker.
 8) If the count is over 10 then the digit on the units place is considered in that case. Like if the player gets 2+9 which is 11 the player will get only 1 point.
 9) If you guess correct the amount gets doubled.
+## Game 7:
+### Jumping Cards
+1) This is a luck based game where 6 cards will be drawn at random from a deck of 52.
+2) The cards will be anonymous at first and will be numbered from 1-6.
+3) The user will throw a die 3 times.
+4) The card with the number of the die will be given to user.
+5) If die value is repeated, take another turn.
+6) When both computer and user have 3 cards, the cards will be revealed.
+7) Only the number part of all the cards will be counted, type of cards carry no value.
+8) The player with the higher value cards will win.
